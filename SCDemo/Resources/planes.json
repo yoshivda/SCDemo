@@ -1,0 +1,714 @@
+[
+  {
+    "Model": "Boeing 737-800",
+    "TailNumber": "N737AA"
+  },
+  {
+    "Model": "Airbus A320-200",
+    "TailNumber": "C-FABC"
+  },
+  {
+    "Model": "Embraer E190",
+    "TailNumber": "PR-AZS"
+  },
+  {
+    "Model": "Bombardier CRJ900",
+    "TailNumber": "D-ACKK"
+  },
+  {
+    "Model": "Boeing 777-300ER",
+    "TailNumber": "A6-EWD"
+  },
+  {
+    "Model": "Airbus A350-900",
+    "TailNumber": "F-WWYB"
+  },
+  {
+    "Model": "Boeing 747-8F",
+    "TailNumber": "N863GT"
+  },
+  {
+    "Model": "Airbus A330-200F",
+    "TailNumber": "JA857F"
+  },
+  {
+    "Model": "Cessna 172 Skyhawk",
+    "TailNumber": "N12345"
+  },
+  {
+    "Model": "Piper PA-28 Cherokee",
+    "TailNumber": "G-ABCD"
+  },
+  {
+    "Model": "Boeing 787-9",
+    "TailNumber": "JA837J"
+  },
+  {
+    "Model": "Airbus A380-800",
+    "TailNumber": "A7-AED"
+  },
+  {
+    "Model": "Embraer ERJ-145",
+    "TailNumber": "HB-AEU"
+  },
+  {
+    "Model": "Bombardier Dash 8 Q400",
+    "TailNumber": "C-GCOZ"
+  },
+  {
+    "Model": "Boeing 767-300ER",
+    "TailNumber": "N767NA"
+  },
+  {
+    "Model": "Airbus A321-200",
+    "TailNumber": "D-AICA"
+  },
+  {
+    "Model": "Saab 340",
+    "TailNumber": "SE-LFM"
+  },
+  {
+    "Model": "ATR 72-600",
+    "TailNumber": "VT-AIZ"
+  },
+  {
+    "Model": "Boeing 757-200",
+    "TailNumber": "N907AW"
+  },
+  {
+    "Model": "Airbus A340-300",
+    "TailNumber": "EC-GZN"
+  },
+  {
+    "Model": "Lockheed L-1011 TriStar",
+    "TailNumber": "N10115"
+  },
+  {
+    "Model": "McDonnell Douglas DC-10",
+    "TailNumber": "N139AA"
+  },
+  {
+    "Model": "Boeing 727-200",
+    "TailNumber": "N467US"
+  },
+  {
+    "Model": "Convair 880",
+    "TailNumber": "N8806E"
+  },
+  {
+    "Model": "De Havilland Comet",
+    "TailNumber": "G-APDK"
+  },
+  {
+    "Model": "Boeing 737-900ER",
+    "TailNumber": "N26906"
+  },
+  {
+    "Model": "Airbus A319-100",
+    "TailNumber": "OK-NEB"
+  },
+  {
+    "Model": "Embraer E175",
+    "TailNumber": "CU-T1701"
+  },
+  {
+    "Model": "Bombardier CRJ700",
+    "TailNumber": "ZK-KRJ"
+  },
+  {
+    "Model": "Boeing 777-200LR",
+    "TailNumber": "A4O-AA"
+  },
+  {
+    "Model": "Airbus A350-1000",
+    "TailNumber": "9V-SMF"
+  },
+  {
+    "Model": "Boeing 747-400F",
+    "TailNumber": "TF-AMC"
+  },
+  {
+    "Model": "Airbus A300F4-600R",
+    "TailNumber": "OO-ACF"
+  },
+  {
+    "Model": "Cessna 208 Caravan",
+    "TailNumber": "P2-C802"
+  },
+  {
+    "Model": "Piper PA-31 Navajo",
+    "TailNumber": "VH-PNN"
+  },
+  {
+    "Model": "Boeing 787-8",
+    "TailNumber": "LN-LNF"
+  },
+  {
+    "Model": "Airbus A380-800",
+    "TailNumber": "VH-OQA"
+  },
+  {
+    "Model": "Embraer ERJ-190-E2",
+    "TailNumber": "PP-XJB"
+  },
+  {
+    "Model": "Bombardier Global 7500",
+    "TailNumber": "9H-ULT"
+  },
+  {
+    "Model": "Boeing 767-400ER",
+    "TailNumber": "N845MH"
+  },
+  {
+    "Model": "Airbus A321neo",
+    "TailNumber": "B-305U"
+  },
+  {
+    "Model": "Saab 2000",
+    "TailNumber": "ES-NSB"
+  },
+  {
+    "Model": "ATR 42-600",
+    "TailNumber": "PK-WKH"
+  },
+  {
+    "Model": "Boeing 757-300",
+    "TailNumber": "N559AA"
+  },
+  {
+    "Model": "Airbus A340-600",
+    "TailNumber": "A6-EGH"
+  },
+  {
+    "Model": "Lockheed L-1011-500",
+    "TailNumber": "C-FTNB"
+  },
+  {
+    "Model": "McDonnell Douglas MD-11F",
+    "TailNumber": "N588HA"
+  },
+  {
+    "Model": "Boeing 727-100",
+    "TailNumber": "VR-BCA"
+  },
+  {
+    "Model": "Convair 990",
+    "TailNumber": "N5603"
+  },
+  {
+    "Model": "De Havilland Canada DHC-6 Twin Otter",
+    "TailNumber": "C-GZBF"
+  },
+  {
+    "Model": "Boeing 737 MAX 8",
+    "TailNumber": "C-FUVA"
+  },
+  {
+    "Model": "Airbus A220-300",
+    "TailNumber": "HB-JCM"
+  },
+  {
+    "Model": "Embraer E195-E2",
+    "TailNumber": "PS-AED"
+  },
+  {
+    "Model": "Bombardier CRJ1000",
+    "TailNumber": "OM-LEX"
+  },
+  {
+    "Model": "Boeing 777F",
+    "TailNumber": "A7-BFA"
+  },
+  {
+    "Model": "Airbus A330-300",
+    "TailNumber": "TC-JJO"
+  },
+  {
+    "Model": "Saab 340B",
+    "TailNumber": "N340MQ"
+  },
+  {
+    "Model": "ATR 72-500",
+    "TailNumber": "RP-C7202"
+  },
+  {
+    "Model": "Boeing 757-200M",
+    "TailNumber": "N601DL"
+  },
+  {
+    "Model": "Airbus A340-200",
+    "TailNumber": "3B-AAH"
+  },
+  {
+    "Model": "Lockheed L-188 Electra",
+    "TailNumber": "N5532"
+  },
+  {
+    "Model": "McDonnell Douglas DC-10-30F",
+    "TailNumber": "N68047"
+  },
+  {
+    "Model": "Boeing 727-200F",
+    "TailNumber": "N408US"
+  },
+  {
+    "Model": "Convair 880M",
+    "TailNumber": "JA8072"
+  },
+  {
+    "Model": "De Havilland Canada DHC-8-400",
+    "TailNumber": "Q9-AAA"
+  },
+  {
+    "Model": "Boeing 737 MAX 9",
+    "TailNumber": "N9394U"
+  },
+  {
+    "Model": "Airbus A220-100",
+    "TailNumber": "C-GROV"
+  },
+  {
+    "Model": "Embraer E190",
+    "TailNumber": "G-LCYM"
+  },
+  {
+    "Model": "Bombardier CRJ200",
+    "TailNumber": "XA-LTO"
+  },
+  {
+    "Model": "Boeing 777-200",
+    "TailNumber": "B-2001"
+  },
+  {
+    "Model": "Airbus A330-200",
+    "TailNumber": "VH-EBA"
+  },
+  {
+    "Model": "Saab 2000",
+    "TailNumber": "HB-IZY"
+  },
+  {
+    "Model": "ATR 42-500",
+    "TailNumber": "F-GPYE"
+  },
+  {
+    "Model": "Boeing 767-200ER",
+    "TailNumber": "N651US"
+  },
+  {
+    "Model": "Airbus A318-100",
+    "TailNumber": "EC-JBI"
+  },
+  {
+    "Model": "Lockheed L-1011 TriStar",
+    "TailNumber": "N707EA"
+  },
+  {
+    "Model": "McDonnell Douglas DC-10-10",
+    "TailNumber": "N903WA"
+  },
+  {
+    "Model": "Boeing 707-300",
+    "TailNumber": "9G-AA"
+  },
+  {
+    "Model": "Convair 880",
+    "TailNumber": "N8818E"
+  },
+  {
+    "Model": "De Havilland Canada DHC-7",
+    "TailNumber": "C-GNBJ"
+  },
+  {
+    "Model": "Boeing 737-700",
+    "TailNumber": "N707SW"
+  },
+  {
+    "Model": "Airbus A320neo",
+    "TailNumber": "D-AIVA"
+  },
+  {
+    "Model": "Embraer E170",
+    "TailNumber": "N862RW"
+  },
+  {
+    "Model": "Bombardier CRJ700",
+    "TailNumber": "C-GNJZ"
+  },
+  {
+    "Model": "Boeing 777-300",
+    "TailNumber": "A6-EMW"
+  },
+  {
+    "Model": "Airbus A350-900",
+    "TailNumber": "VN-A886"
+  },
+  {
+    "Model": "Boeing 747-8",
+    "TailNumber": "D-ABYT"
+  },
+  {
+    "Model": "Airbus A330-300",
+    "TailNumber": "G-VSXY"
+  },
+  {
+    "Model": "Saab 340A",
+    "TailNumber": "SE-KRC"
+  },
+  {
+    "Model": "ATR 72-200",
+    "TailNumber": "PK-GAI"
+  },
+  {
+    "Model": "Boeing 767-300",
+    "TailNumber": "JA8258"
+  },
+  {
+    "Model": "Airbus A321-100",
+    "TailNumber": "TC-JRA"
+  },
+  {
+    "Model": "Lockheed L-1011-1",
+    "TailNumber": "N762BE"
+  },
+  {
+    "Model": "McDonnell Douglas DC-10-40",
+    "TailNumber": "JA8541"
+  },
+  {
+    "Model": "Boeing 707-100",
+    "TailNumber": "N7071"
+  },
+  {
+    "Model": "Convair 990A",
+    "TailNumber": "EC-BJC"
+  },
+  {
+    "Model": "De Havilland Canada DHC-8-100",
+    "TailNumber": "C-FOOK"
+  },
+  {
+    "Model": "Boeing 737-600",
+    "TailNumber": "LN-RRR"
+  },
+  {
+    "Model": "Airbus A319neo",
+    "TailNumber": "D-AVWA"
+  },
+  {
+    "Model": "Embraer E175",
+    "TailNumber": "C-FNYZ"
+  },
+  {
+    "Model": "Bombardier CRJ900",
+    "TailNumber": "D-ACNN"
+  },
+  {
+    "Model": "Boeing 777-200LR",
+    "TailNumber": "A6-LRA"
+  },
+  {
+    "Model": "Airbus A350-1000",
+    "TailNumber": "9V-SMP"
+  },
+  {
+    "Model": "Boeing 747-400ERF",
+    "TailNumber": "N571UP"
+  },
+  {
+    "Model": "Airbus A300B4-200F",
+    "TailNumber": "SX-BHK"
+  },
+  {
+    "Model": "Cessna 402",
+    "TailNumber": "N737MQ"
+  },
+  {
+    "Model": "Piper PA-34 Seneca",
+    "TailNumber": "HB-LWR"
+  },
+  {
+    "Model": "Boeing 787-10",
+    "TailNumber": "JA838J"
+  },
+  {
+    "Model": "Airbus A380-800",
+    "TailNumber": "A6-APG"
+  },
+  {
+    "Model": "Embraer ERJ-145LR",
+    "TailNumber": "XA-RLA"
+  },
+  {
+    "Model": "Bombardier Dash 8 Q400",
+    "TailNumber": "C-GJZV"
+  },
+  {
+    "Model": "Boeing 767-300ER",
+    "TailNumber": "N768UA"
+  },
+  {
+    "Model": "Airbus A321-200",
+    "TailNumber": "D-AIAD"
+  },
+  {
+    "Model": "Saab 340B Plus",
+    "TailNumber": "OY-KBB"
+  },
+  {
+    "Model": "ATR 72-600",
+    "TailNumber": "VN-B219"
+  },
+  {
+    "Model": "Boeing 757-200",
+    "TailNumber": "N909AW"
+  },
+  {
+    "Model": "Airbus A340-300",
+    "TailNumber": "EC-GZR"
+  },
+  {
+    "Model": "Lockheed L-1011 TriStar",
+    "TailNumber": "C-FTND"
+  },
+  {
+    "Model": "McDonnell Douglas DC-10-30",
+    "TailNumber": "N68050"
+  },
+  {
+    "Model": "Boeing 727-200",
+    "TailNumber": "N472US"
+  },
+  {
+    "Model": "Convair 880M",
+    "TailNumber": "N8807E"
+  },
+  {
+    "Model": "De Havilland Canada DHC-6 Twin Otter",
+    "TailNumber": "C-GZBH"
+  },
+  {
+    "Model": "Boeing 737-800",
+    "TailNumber": "N838AA"
+  },
+  {
+    "Model": "Airbus A320-200",
+    "TailNumber": "C-FABD"
+  },
+  {
+    "Model": "Embraer E190",
+    "TailNumber": "PR-AZT"
+  },
+  {
+    "Model": "Bombardier CRJ900",
+    "TailNumber": "D-ACKL"
+  },
+  {
+    "Model": "Boeing 777-300ER",
+    "TailNumber": "A6-EWE"
+  },
+  {
+    "Model": "Airbus A350-900",
+    "TailNumber": "F-WWYC"
+  },
+  {
+    "Model": "Boeing 747-8F",
+    "TailNumber": "N864GT"
+  },
+  {
+    "Model": "Airbus A330-200F",
+    "TailNumber": "JA858F"
+  },
+  {
+    "Model": "Cessna 172 Skyhawk",
+    "TailNumber": "N12346"
+  },
+  {
+    "Model": "Piper PA-28 Cherokee",
+    "TailNumber": "G-ABCE"
+  },
+  {
+    "Model": "Boeing 787-9",
+    "TailNumber": "JA838J"
+  },
+  {
+    "Model": "Airbus A380-800",
+    "TailNumber": "A7-AEE"
+  },
+  {
+    "Model": "Embraer ERJ-145",
+    "TailNumber": "HB-AEV"
+  },
+  {
+    "Model": "Bombardier Dash 8 Q400",
+    "TailNumber": "C-GCPB"
+  },
+  {
+    "Model": "Boeing 767-300ER",
+    "TailNumber": "N768NB"
+  },
+  {
+    "Model": "Airbus A321-200",
+    "TailNumber": "D-AICB"
+  },
+  {
+    "Model": "Saab 340",
+    "TailNumber": "SE-LFN"
+  },
+  {
+    "Model": "ATR 72-600",
+    "TailNumber": "VT-AJA"
+  },
+  {
+    "Model": "Boeing 757-200",
+    "TailNumber": "N910AW"
+  },
+  {
+    "Model": "Airbus A340-300",
+    "TailNumber": "EC-GZS"
+  },
+  {
+    "Model": "Lockheed L-1011 TriStar",
+    "TailNumber": "N10116"
+  },
+  {
+    "Model": "McDonnell Douglas DC-10",
+    "TailNumber": "N140AA"
+  },
+  {
+    "Model": "Boeing 727-200",
+    "TailNumber": "N468US"
+  },
+  {
+    "Model": "Convair 880",
+    "TailNumber": "N8808E"
+  },
+  {
+    "Model": "De Havilland Comet",
+    "TailNumber": "G-APDL"
+  },
+  {
+    "Model": "Boeing 737-900ER",
+    "TailNumber": "N26907"
+  },
+  {
+    "Model": "Airbus A319-100",
+    "TailNumber": "OK-NEC"
+  },
+  {
+    "Model": "Embraer E175",
+    "TailNumber": "CU-T1702"
+  },
+  {
+    "Model": "Bombardier CRJ700",
+    "TailNumber": "ZK-KRS"
+  },
+  {
+    "Model": "Boeing 777-200LR",
+    "TailNumber": "A4O-AB"
+  },
+  {
+    "Model": "Airbus A350-1000",
+    "TailNumber": "9V-SMG"
+  },
+  {
+    "Model": "Boeing 747-400F",
+    "TailNumber": "TF-AMD"
+  },
+  {
+    "Model": "Airbus A300F4-600R",
+    "TailNumber": "OO-ACG"
+  },
+  {
+    "Model": "Cessna 208 Caravan",
+    "TailNumber": "P2-C803"
+  },
+  {
+    "Model": "Piper PA-31 Navajo",
+    "TailNumber": "VH-PNO"
+  },
+  {
+    "Model": "Boeing 787-8",
+    "TailNumber": "LN-LNG"
+  },
+  {
+    "Model": "Airbus A380-800",
+    "TailNumber": "VH-OQB"
+  },
+  {
+    "Model": "Embraer ERJ-190-E2",
+    "TailNumber": "PP-XJC"
+  },
+  {
+    "Model": "Bombardier Global 7500",
+    "TailNumber": "9H-ULU"
+  },
+  {
+    "Model": "Boeing 767-400ER",
+    "TailNumber": "N846MH"
+  },
+  {
+    "Model": "Airbus A321neo",
+    "TailNumber": "B-306U"
+  },
+  {
+    "Model": "Saab 2000",
+    "TailNumber": "ES-NSC"
+  },
+  {
+    "Model": "ATR 42-600",
+    "TailNumber": "PK-WKI"
+  },
+  {
+    "Model": "Boeing 757-300",
+    "TailNumber": "N560AA"
+  },
+  {
+    "Model": "Airbus A340-600",
+    "TailNumber": "A6-EGI"
+  },
+  {
+    "Model": "Lockheed L-1011-500",
+    "TailNumber": "C-FTNC"
+  },
+  {
+    "Model": "McDonnell Douglas MD-11F",
+    "TailNumber": "N589HA"
+  },
+  {
+    "Model": "Boeing 727-100",
+    "TailNumber": "VR-BCB"
+  },
+  {
+    "Model": "Convair 990",
+    "TailNumber": "N5604"
+  },
+  {
+    "Model": "De Havilland Canada DHC-6 Twin Otter",
+    "TailNumber": "C-GZBI"
+  },
+  {
+    "Model": "Boeing 737 MAX 8",
+    "TailNumber": "C-FUVB"
+  },
+  {
+    "Model": "Airbus A220-300",
+    "TailNumber": "HB-JCN"
+  },
+  {
+    "Model": "Embraer E195-E2",
+    "TailNumber": "PS-AEE"
+  },
+  {
+    "Model": "Bombardier CRJ1000",
+    "TailNumber": "OM-LEY"
+  },
+  {
+    "Model": "Boeing 777F",
+    "TailNumber": "A7-BFB"
+  },
+  {
+    "Model": "Airbus A330-300",
+    "TailNumber": "TC-JJP"
+  }
+]
