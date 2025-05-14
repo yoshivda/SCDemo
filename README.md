@@ -7,7 +7,7 @@ This project contains a DotNet web server using a local database through EF Core
 1. Clone this repository.
 2. Install LocalDb. If you use Visual Studio: via the installer, modify the installation to include "SQL Server Express 2019 LocalDB". Otherwise, [install it with the SQL Server installer](https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver16).
 3. Create a local database using the following command in the terminal of your IDE: `sqllocaldb create sc1`
-4. Run the application. The database schemas will be set up by the application, and Swagger will automatically open in your web browser.
+4. Run the application. The database schemas will be set up by the application, and Swagger should automatically open in your web browser (if not, navigate to https://localhost:7049/swagger/index.html).
 5. Through Swagger (or your tool of choice), call the `CreateDemoData` endpoint to populate the database.
 
 ## What to do
