@@ -19,6 +19,5 @@ public class QueryInterceptor : DbCommandInterceptor
         var stats = eventData.Context.GetService<QueryStats>();
         stats.Track(eventData);
         return new RowCountingDbReader(result, stats);
-        // return result;
     }
 }
